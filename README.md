@@ -33,14 +33,15 @@ Project Structure
 
 salary-predictor-app/
 │
-├── app.py # Streamlit app
+├── app.py                  # Streamlit app
 ├── model/
-│ └── salary_model.pkl # Trained ML model (Pickle)
+│   └── salary_model.pkl    # Trained ML model (Pickle)
 ├── data/
-│ └── salary_dataset.csv # Dataset used for training
-├── utils.py # Helper functions
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+│   └── salary_dataset.csv  # Dataset used for training
+├── utils.py                # Helper functions
+├── requirements.txt        # Project dependencies
+└── README.md               # Project documentation
+
  
 
 How to Run the Project
