@@ -31,6 +31,7 @@ Machine Learning Techniques Used
 Project Structure
 -----------------
 
+ <pre>
 salary-predictor-app/
 │
 ├── app.py                  # Streamlit app
@@ -41,6 +42,7 @@ salary-predictor-app/
 ├── utils.py                # Helper functions
 ├── requirements.txt        # Project dependencies
 └── README.md               # Project documentation
+</pre>
 
  
 
